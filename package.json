@@ -1,0 +1,20 @@
+{
+  "name": "week05comp3104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astanjin/week05_comp3104_lab_exec-5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astanjin/week05_comp3104_lab_exec-5/issues"
+  },
+  "homepage": "https://github.com/astanjin/week05_comp3104_lab_exec-5#readme"
+}
